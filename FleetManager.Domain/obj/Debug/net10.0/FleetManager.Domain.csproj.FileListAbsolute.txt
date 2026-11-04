@@ -1,0 +1,11 @@
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/bin/Debug/net10.0/FleetManager.Domain.deps.json
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/bin/Debug/net10.0/FleetManager.Domain.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/bin/Debug/net10.0/FleetManager.Domain.pdb
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/FleetManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/FleetManager.Domain.AssemblyInfoInputs.cache
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/FleetManager.Domain.AssemblyInfo.cs
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/FleetManager.Domain.csproj.CoreCompileInputs.cache
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/FleetManager.Domain.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/refint/FleetManager.Domain.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/FleetManager.Domain.pdb
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.Domain/obj/Debug/net10.0/ref/FleetManager.Domain.dll

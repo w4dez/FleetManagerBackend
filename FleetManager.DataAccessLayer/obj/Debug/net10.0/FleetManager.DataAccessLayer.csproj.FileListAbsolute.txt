@@ -1,0 +1,15 @@
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/bin/Debug/net10.0/FleetManager.DataAccessLayer.deps.json
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/bin/Debug/net10.0/FleetManager.DataAccessLayer.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/bin/Debug/net10.0/FleetManager.DataAccessLayer.pdb
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/bin/Debug/net10.0/FleetManager.Domain.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/bin/Debug/net10.0/FleetManager.Domain.pdb
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.AssemblyInfo.cs
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetMan.3E870186.Up2Date
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/refint/FleetManager.DataAccessLayer.dll
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/FleetManager.DataAccessLayer.pdb
+/Users/jiggyg/Documents/CSharp/FleetManagerBackend/FleetManager.DataAccessLayer/obj/Debug/net10.0/ref/FleetManager.DataAccessLayer.dll
